@@ -1,0 +1,2 @@
+# GAS-SlackAPI-LendingManagement
+GASとSlackAPIを用いた貸出管理アプリです
