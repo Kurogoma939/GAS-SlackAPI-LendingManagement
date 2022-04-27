@@ -1,5 +1,7 @@
 # GAS-SlackAPI-LendingManagement
-GASとSlackAPIを用いた貸出管理アプリです
+GASとSlackAPIを用いた貸出管理アプリです。<br>
+サラッとした解説はzennの記事として保存したため、何か指摘事項や改善点があればコメントお願いいたします。<br>
+https://zenn.dev/kurogoma939/articles/6fcc72ab8a0d4e
 
 ## 使用ツール等
 1. Google SpreadSheet
