@@ -15,7 +15,7 @@ const slackApp = SlackApp.create(token);
 let monthly_message = `
   <!channel>
   おはようございます！
-  オリエントの棚に追加する本の募集をいたします！
+  オフィスの棚に追加する本の募集をいたします！
 
   購入して欲しい本がある方は、以下のアンケートに回答願います。
 
